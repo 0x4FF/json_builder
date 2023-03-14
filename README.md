@@ -6,7 +6,7 @@ The JSON Object Creator is a Python script that allows you to interactively crea
 
 1. Make sure you have Python 3 installed on your computer.
 2. Download the `main.py` file from this repository.
-3. Open a terminal or command prompt in the directory where the `json_object_creator.py` file is located.
+3. Open a terminal or command prompt in the directory where the `main.py` file is located.
 4. Run the following command to start the script:
 
 ```c
